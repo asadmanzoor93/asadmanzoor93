@@ -1,6 +1,6 @@
 ### Hola, I'm Asad Manzoor! 👋
 
-- 🔭 I’m currently working on OpenEdx, Python/Django and React.
+- 🔭 I’m currently working on Python/Django and React.
 - 👯 I’m looking to collaborate.
 - 💻 I'm actively building products.
 - 💬 Ask me about Python, React or any tech related stuff.
