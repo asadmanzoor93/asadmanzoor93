@@ -1,10 +1,9 @@
-### Hola, I'm Asad Manzoor! 👋
+### Hola, I'm Asad! 👋
 
 - 🔭 I’m currently working on Python/Django and React.
 - 👯 I’m looking to collaborate.
 - 💻 I'm actively building products.
 - 💬 Ask me about Python, React, or any tech-related stuff.
-- 📫 How to reach me: [Linkedin - @asadmanzoor93](https://www.linkedin.com/in/asadmanzoor93/)
 - 😄 Pronouns: He/His
 
 **Languages and Tools:**  
